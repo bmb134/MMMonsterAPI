@@ -1,0 +1,11 @@
+c:\users\kegwe\source\repos\ImageHost\ImageHost\bin\Debug\netcoreapp2.0\ImageHost.deps.json
+c:\users\kegwe\source\repos\ImageHost\ImageHost\bin\Debug\netcoreapp2.0\ImageHost.runtimeconfig.json
+c:\users\kegwe\source\repos\ImageHost\ImageHost\bin\Debug\netcoreapp2.0\ImageHost.runtimeconfig.dev.json
+c:\users\kegwe\source\repos\ImageHost\ImageHost\bin\Debug\netcoreapp2.0\ImageHost.dll
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.csprojResolveAssemblyReference.cache
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.csproj.CoreCompileInputs.cache
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.AssemblyInfoInputs.cache
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.AssemblyInfo.cs
+c:\users\kegwe\source\repos\ImageHost\ImageHost\bin\Debug\netcoreapp2.0\ImageHost.pdb
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.dll
+c:\users\kegwe\source\repos\ImageHost\ImageHost\obj\Debug\netcoreapp2.0\ImageHost.pdb
